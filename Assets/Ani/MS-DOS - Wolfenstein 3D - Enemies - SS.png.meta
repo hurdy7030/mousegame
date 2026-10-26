@@ -1,0 +1,1277 @@
+fileFormatVersion: 2
+guid: 610ef4ec3eaa2ce4687b4f7c8160e8bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8219406468432245483
+    second: MS-DOS - Wolfenstein 3D - Enemies - SS_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 391
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2b37f72a2311270800000000000000
+      internalID: 8219406468432245483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 391
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82750babfe1284f49ac07635dae0f1c4
+      internalID: 1446490823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 391
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b87c67aac53b4381c11514284ac6f
+      internalID: 1203406146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 391
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b7910bb68caab43912b8d39196b7c9
+      internalID: -639263702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 391
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f209f617e077db4408ce37b0498c33a6
+      internalID: -998360223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 391
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2d79fcf1b501844beea2259b7284e7
+      internalID: 43318837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 391
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc55f36e3829c4995e6cccd14c4391
+      internalID: -2047103900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 391
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b15e30c8ea33344872f3ddf3a2684e
+      internalID: -689194306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 326
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34316f86073db44aa030e19e39fe73
+      internalID: 1938592083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 326
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e8410b90b6cce4089208ef87c6d525
+      internalID: -1206024335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 326
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9c4dce9dd95ee4bbb87b321227dac8
+      internalID: 1609420725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 326
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdbf702f23195c46aa61e26251afe3d
+      internalID: 512559507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 326
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee36516bfa2b72459f005ff4457cf4b
+      internalID: 1716330915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 326
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f1e3ae5095eb541a63385c973ae1a2
+      internalID: -1893573266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 326
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45fce24835116f4e9924780d10516b7
+      internalID: -1440222763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 326
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06818035fa9c4489a5509b7597608a
+      internalID: -1165480650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 263
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8193a6af12db24c890114bd9e815c9
+      internalID: -1987290414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 262
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9ca8f828de5a4eb7fabbe8e978052
+      internalID: 47248703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 261
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d09f844544dc4ebda3f0f16aaaefb
+      internalID: 872599050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 261
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c0535839c3df43a0afa1bb212c2db
+      internalID: -291293561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 261
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b816f07ad15fb41945662444fe2dbb
+      internalID: 1786570856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 261
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b41c4454ef7924dae6c9575dace454
+      internalID: 452987981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 261
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d63a06662dd584a9746585080e6b40
+      internalID: 2114724465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 262
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4330560eb3fa2e4ab938989345867a8
+      internalID: -284374723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 196
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d01d56fb75c1147952dd5790c7968d
+      internalID: -390486678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 196
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0be3b740b476244f8a5d9181e245f8f
+      internalID: 1451579936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 196
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9da96ebe77c5a4381867ee148e88f7
+      internalID: 605933220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 196
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e78e1bea8fb7941a10628155c82967
+      internalID: -586022283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 196
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa6672868f46934399e5043e214b615
+      internalID: 1107080470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 196
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a430bb710386f42b4a22d702ea7a5d
+      internalID: 368955321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 196
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff45c78c6c74ce479ac470148677c96
+      internalID: -1731170012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 196
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d123d27768bf87547a7d30dcd259fadc
+      internalID: 1107468649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 133
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77309e45b673c14eb64829966143c47
+      internalID: -1161123783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 133
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968136899bcdf3f4489f1137f9c59f81
+      internalID: -947372025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 131
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd210af6fdedac545b6794e7ff04a3c4
+      internalID: 104979104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 131
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e8a6b7ea46404699bf062593e2e30
+      internalID: -443298294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 131
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e488c6c27ca5f469730b3efc05cc9f
+      internalID: -1942154332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_37
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 131
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa76bf7474f10534590ae0458aad9807
+      internalID: 2121053797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 131
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c9a2677d0997498fa0bf7864055ef
+      internalID: -1776110183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_39
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 132
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff566201950436428433480f8830687
+      internalID: 876154382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202b3773b607ebe45a380e40977a9033
+      internalID: 417422785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e149ef82cef7341a732f491544295d
+      internalID: 91490926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 66
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033ab89d82afa2446839bf881f689c00
+      internalID: -1241507049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce03019884fa849b804011211bd4c7
+      internalID: 1275288969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 67
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eb045ebba904947a394f68d60586e6
+      internalID: 8984188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 66
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ac4e24e344cf45a2b567e4f10e316
+      internalID: -1095648325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a7c6f86028f140ad7b9292799543d
+      internalID: 431253783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27304bd96e98579419b95dd1c64acd0f
+      internalID: 1558498597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Wolfenstein 3D - Enemies - SS_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7f15ee715ae3e408a574beee310fef
+      internalID: 848862543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3bb5b120e826d82459966b4a6fa59905
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MS-DOS - Wolfenstein 3D - Enemies - SS_0: 8219406468432245483
+      MS-DOS - Wolfenstein 3D - Enemies - SS_1: 1446490823
+      MS-DOS - Wolfenstein 3D - Enemies - SS_10: 1609420725
+      MS-DOS - Wolfenstein 3D - Enemies - SS_11: 512559507
+      MS-DOS - Wolfenstein 3D - Enemies - SS_12: 1716330915
+      MS-DOS - Wolfenstein 3D - Enemies - SS_13: -1893573266
+      MS-DOS - Wolfenstein 3D - Enemies - SS_14: -1440222763
+      MS-DOS - Wolfenstein 3D - Enemies - SS_15: -1165480650
+      MS-DOS - Wolfenstein 3D - Enemies - SS_16: -1987290414
+      MS-DOS - Wolfenstein 3D - Enemies - SS_17: 47248703
+      MS-DOS - Wolfenstein 3D - Enemies - SS_18: 872599050
+      MS-DOS - Wolfenstein 3D - Enemies - SS_19: -291293561
+      MS-DOS - Wolfenstein 3D - Enemies - SS_2: 1203406146
+      MS-DOS - Wolfenstein 3D - Enemies - SS_20: 1786570856
+      MS-DOS - Wolfenstein 3D - Enemies - SS_21: 452987981
+      MS-DOS - Wolfenstein 3D - Enemies - SS_22: 2114724465
+      MS-DOS - Wolfenstein 3D - Enemies - SS_23: -284374723
+      MS-DOS - Wolfenstein 3D - Enemies - SS_24: -390486678
+      MS-DOS - Wolfenstein 3D - Enemies - SS_25: 1451579936
+      MS-DOS - Wolfenstein 3D - Enemies - SS_26: 605933220
+      MS-DOS - Wolfenstein 3D - Enemies - SS_27: -586022283
+      MS-DOS - Wolfenstein 3D - Enemies - SS_28: 1107080470
+      MS-DOS - Wolfenstein 3D - Enemies - SS_29: 368955321
+      MS-DOS - Wolfenstein 3D - Enemies - SS_3: -639263702
+      MS-DOS - Wolfenstein 3D - Enemies - SS_30: -1731170012
+      MS-DOS - Wolfenstein 3D - Enemies - SS_31: 1107468649
+      MS-DOS - Wolfenstein 3D - Enemies - SS_32: -1161123783
+      MS-DOS - Wolfenstein 3D - Enemies - SS_33: -947372025
+      MS-DOS - Wolfenstein 3D - Enemies - SS_34: 104979104
+      MS-DOS - Wolfenstein 3D - Enemies - SS_35: -443298294
+      MS-DOS - Wolfenstein 3D - Enemies - SS_36: -1942154332
+      MS-DOS - Wolfenstein 3D - Enemies - SS_37: 2121053797
+      MS-DOS - Wolfenstein 3D - Enemies - SS_38: -1776110183
+      MS-DOS - Wolfenstein 3D - Enemies - SS_39: 876154382
+      MS-DOS - Wolfenstein 3D - Enemies - SS_4: -998360223
+      MS-DOS - Wolfenstein 3D - Enemies - SS_40: 417422785
+      MS-DOS - Wolfenstein 3D - Enemies - SS_41: 91490926
+      MS-DOS - Wolfenstein 3D - Enemies - SS_42: -1241507049
+      MS-DOS - Wolfenstein 3D - Enemies - SS_43: 1275288969
+      MS-DOS - Wolfenstein 3D - Enemies - SS_44: 8984188
+      MS-DOS - Wolfenstein 3D - Enemies - SS_45: -1095648325
+      MS-DOS - Wolfenstein 3D - Enemies - SS_46: 431253783
+      MS-DOS - Wolfenstein 3D - Enemies - SS_47: 1558498597
+      MS-DOS - Wolfenstein 3D - Enemies - SS_48: 848862543
+      MS-DOS - Wolfenstein 3D - Enemies - SS_5: 43318837
+      MS-DOS - Wolfenstein 3D - Enemies - SS_6: -2047103900
+      MS-DOS - Wolfenstein 3D - Enemies - SS_7: -689194306
+      MS-DOS - Wolfenstein 3D - Enemies - SS_8: 1938592083
+      MS-DOS - Wolfenstein 3D - Enemies - SS_9: -1206024335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
